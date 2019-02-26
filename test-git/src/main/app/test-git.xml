@@ -15,7 +15,7 @@ http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee
 %output application/json
 ---
 {
-	message: "Hello World !!"
+	message: "Hello World 123!!"
 }]]></dw:set-payload>
         </dw:transform-message>
     </flow>
